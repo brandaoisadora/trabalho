@@ -6,33 +6,33 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "A mudança do novo ensino médio fez com que os alunos tivessem mais contatos com a internet e tecnologia dentro das escolas. ",
         alternativas: [
             {
                 texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                afirmacao: "o receio sobre o poder da internet na mão de alunos dentro de sala de aula."
             },
             {
                 texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                afirmacao: "a tecnologia pode abrir caminhos."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: " Em um dia de aula uma professora passou um trabalho para ser feito dentro de sala, usando uma das plataformas disponivéis para os alunos no computador da escola, ela pediu para você ficar com a parte da explicação do trabalho em frente a turma, como vocÊ apresentaria?",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: " Você escolhe apresentar o trabalho por meio de um slide prático, com um guia para direcionar as pessoas rapidamente.",
+                afirmacao: "Ele tem medo de falar em publico,então foi pelo modo prático e rápido."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Você resolve falar e explicar o trabalho no quadro de sala de aula, de modo completo e respondendo duvidas la na frente.",
+                afirmacao: "se sentiu seguro para prestar ajuda e falar em frente de todos."
             }
         ]
     },
     {
-        enunciado: "Após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
+        enunciado: "  Uma das questoẽs apresentadas foi como você lida com a educação sendo avançada junto com a tecnologia dentro das escolas e oque você acha sobre isso? ",
         alternativas: [
             {
                 texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
